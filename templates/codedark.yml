@@ -6,9 +6,9 @@ information:
 palette:
   fg: '#ABB2BF'
   # bg: '#232731'
-  bg: '#000000'
+  bg: '#2D2A2E'
 
-  alt_bg: '#282c34'
+  alt_bg: '#2D2A2E'
   accent: '#434C5E'
   context: '#4b5263'
 

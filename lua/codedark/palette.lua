@@ -1,7 +1,7 @@
 local colors = {
 	fg = "#ABB2BF",
-	bg = "#000000",
-	alt_bg = "#282c34",
+	bg = "#2D2A2E",
+	alt_bg = "#2D2A2E",
 	accent = "#434C5E",
 	context = "#4b5263",
 	white = "#d6d6d6",
